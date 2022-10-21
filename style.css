@@ -1,18 +1,18 @@
 h1 {
-    color:rgb(255, 0, 0); 
+    color:rgb(139, 167, 194); 
     font-size: 50px;
 }
 
 #s2{
-    color:rgb(255,255, 0);
+    color:rgb(124, 136, 160);
 }
 
 .c1{
-    color:rgb(238, 8, 188);
+    color:rgb(128, 57, 35);
 }
 
 .c2{
-    color:rgb(5, 240, 111);
+    color:rgb(197, 81, 191);
 }
 
 .c2:hover{

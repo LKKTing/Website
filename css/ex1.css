@@ -1,7 +1,7 @@
 body {
     width: 800px;
     /* background: #bd001f url('../images/body_bg.gif') repeat-x top; */
-    background-image: linear-gradient(#f00, #ff0 );
+    background-image: linear-gradient(rgb(138, 198, 233), rgb(200, 121, 219) );
     font-family: Microsoft JhengHei;
     font-size: 16px;
     color: #333;
@@ -52,7 +52,7 @@ header, #masthead{
 #mainContent{
     width: 800px;
     background: #fff;
-    border: 10px solid #5c0505;
+    border: 10px solid #141814;
     margin-top: 10px;
 }
 
